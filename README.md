@@ -29,3 +29,8 @@ pip install pandas numpy networkx openpyxl
 - dijkstra.py: Es el script principal que contiene la lógica del algoritmo de Dijkstra y la ejecución del programa.
 - EstacionesMetro.xlsx: Archivo de Excel que actúa como base de datos. Contiene las columnas Origen, Destino y Peso.
 
+##  Autor
+
+Alan Arrieta UNAM ICO
+_______________________________
+© 2026 - Metro Dijkstra
